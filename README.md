@@ -24,21 +24,21 @@ All the data in the Column “Questions” was preprocessed, for preprocessing o
 After using this model in the provided dataset after data preprocessing, following scores for performance evaluation arrived:
 
 1. Evaluation / Models	Baseline (Random forest) - with Text Pre-processing	Baseline (Random forest) – without text preprocessing
-  * Accuracy	52 %	58.11 %
-  * Precision	45.86%	54.72 %
-  * Recall	52.02 %	58 %
-  * F1-score	46.85%	55.67 %
+  * Accuracy :	52 % , 	58.11 %
+  * Precision :	45.86% ,	54.72 %
+  * Recall :	52.02% ,	58 %
+  * F1-score :	46.85% ,	55.67 %
 
 
 2. Evaluation/Models	Improved (SVM) Model - with Text Pre-processing	Baseline (Random forest) – with text preprocessing
-  * Accuracy	53.16 %	52.03 %
-  * Precision	45.43 %	45.86 %
-  * Recall	53 %	52 %
-  * F1-score	43.77 %	46.8 %
+  * Accuracy :	53.16% ,	52.03 %
+  * Precision :	45.43% ,	45.86 %
+  * Recall :	53% ,	52 %
+  * F1-score :	43.77%	, 46.8 %
 
 
 3. Evaluation/Models	Improved (SVM) Model - without Text Pre-processing	Baseline (Random forest) – without text preprocessing
-  * Accuracy	63.29 %	58.11 %
-  * Precision	57.03 %	54.72 %
-  * Recall	63.51 %	58 %
-  * F1-score	59.42 %	55.67 %
+  * Accuracy :	63.29 % ,	58.11 %
+  * Precision :	57.03 % ,	54.72 %
+  * Recall :	63.51 % ,	58 %
+  * F1-score :	59.42 % ,	55.67 %
